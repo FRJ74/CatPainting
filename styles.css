@@ -1,0 +1,8 @@
+/* Global Stylings */
+* {
+    box-sizing: border-box;
+  }
+  /* Main Stylings */
+  body {
+    background-color: #c9d2fc;
+  }
