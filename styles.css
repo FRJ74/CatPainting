@@ -22,11 +22,4 @@
     margin: auto;
   }
 
-  .box {
-    width: 400px;
-    height: 600px;
-    background-color: #000;
-    position: absolute;
-    top: 800px;
-    left: 650px;
-  }
+  
