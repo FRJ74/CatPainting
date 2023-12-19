@@ -73,3 +73,14 @@
     border-bottom-right-radius: 40%;
     border-bottom-left-radius: 40%;
     }
+
+    .cat-left-eye {
+      position: absolute;
+      top: 54px;
+      left: 39px;
+      width: 30px;
+      height: 40px;
+      background-color: #000;
+      border-radius: 60%;
+      transform: rotate(25deg);
+    }
