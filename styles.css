@@ -153,7 +153,7 @@
       transform: rotate(164deg);
     }
 
-    .cat-whiskers-left {
+    .cat-whiskers-left div{
       width: 40px;
       height: 1px;
       background-color: #000;
